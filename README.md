@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desenvolvedor backend no banco BMG<br>Estudante assíduo de programação<br>Músico<br>Gosto de ajudar iniciantes em programação<br>
+Desenvolvedor backend na empresa Anota AI [iFood] <br>Estudante assíduo de programação<br>Músico<br>Gosto de ajudar iniciantes em programação<br>
 
 
 ## 🌐 Socials:

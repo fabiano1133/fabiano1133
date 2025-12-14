@@ -1,7 +1,3 @@
-# 💫 About Me:
-Desenvolvedor backend na empresa Anota AI [iFood] <br>Estudante assíduo de programação<br>Músico<br>Gosto de ajudar iniciantes em programação<br>
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Fabiano Albuquerque) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fabiano_goncalves_1133) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Fabiano Albuquerque ) 
 
